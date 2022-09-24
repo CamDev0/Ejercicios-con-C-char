@@ -1,0 +1,14 @@
+C:\Users\salak406.SALASFR\Desktop\BancoHerencia\BancoHerencia\bin\Debug\BancoHerencia.exe.config
+C:\Users\salak406.SALASFR\Desktop\BancoHerencia\BancoHerencia\bin\Debug\BancoHerencia.exe
+C:\Users\salak406.SALASFR\Desktop\BancoHerencia\BancoHerencia\bin\Debug\BancoHerencia.pdb
+C:\Users\salak406.SALASFR\Desktop\BancoHerencia\BancoHerencia\obj\Debug\BancoHerencia.csproj.AssemblyReference.cache
+C:\Users\salak406.SALASFR\Desktop\BancoHerencia\BancoHerencia\obj\Debug\BancoHerencia.csproj.CoreCompileInputs.cache
+C:\Users\salak406.SALASFR\Desktop\BancoHerencia\BancoHerencia\obj\Debug\BancoHerencia.exe
+C:\Users\salak406.SALASFR\Desktop\BancoHerencia\BancoHerencia\obj\Debug\BancoHerencia.pdb
+C:\Users\docenteitm.SALASFR\Desktop\BancoHerencia\BancoHerencia\bin\Debug\BancoHerencia.exe.config
+C:\Users\docenteitm.SALASFR\Desktop\BancoHerencia\BancoHerencia\bin\Debug\BancoHerencia.exe
+C:\Users\docenteitm.SALASFR\Desktop\BancoHerencia\BancoHerencia\bin\Debug\BancoHerencia.pdb
+C:\Users\docenteitm.SALASFR\Desktop\BancoHerencia\BancoHerencia\obj\Debug\BancoHerencia.csproj.AssemblyReference.cache
+C:\Users\docenteitm.SALASFR\Desktop\BancoHerencia\BancoHerencia\obj\Debug\BancoHerencia.csproj.CoreCompileInputs.cache
+C:\Users\docenteitm.SALASFR\Desktop\BancoHerencia\BancoHerencia\obj\Debug\BancoHerencia.exe
+C:\Users\docenteitm.SALASFR\Desktop\BancoHerencia\BancoHerencia\obj\Debug\BancoHerencia.pdb
