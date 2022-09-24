@@ -23,3 +23,16 @@ C:\Users\salak406.SALASFR\Desktop\Saludo\obj\Debug\Saludo.csproj.CoreCompileInpu
 C:\Users\salak406.SALASFR\Desktop\Saludo\obj\Debug\Saludo.exe
 C:\Users\salak406.SALASFR\Desktop\Saludo\obj\Debug\Saludo.pdb
 C:\Users\docenteitm.SALASFR\Desktop\Saludo\obj\Debug\Saludo.Maestro.resources
+C:\Proyectos\C#\Saludo\bin\Debug\Saludo.exe.config
+C:\Proyectos\C#\Saludo\bin\Debug\Saludo.exe
+C:\Proyectos\C#\Saludo\bin\Debug\Saludo.pdb
+C:\Proyectos\C#\Saludo\obj\Debug\Saludo.csproj.AssemblyReference.cache
+C:\Proyectos\C#\Saludo\obj\Debug\Saludo.Caja.resources
+C:\Proyectos\C#\Saludo\obj\Debug\Saludo.Hola.resources
+C:\Proyectos\C#\Saludo\obj\Debug\Saludo.Juego.resources
+C:\Proyectos\C#\Saludo\obj\Debug\Saludo.Maestro.resources
+C:\Proyectos\C#\Saludo\obj\Debug\Saludo.Properties.Resources.resources
+C:\Proyectos\C#\Saludo\obj\Debug\Saludo.csproj.GenerateResource.cache
+C:\Proyectos\C#\Saludo\obj\Debug\Saludo.csproj.CoreCompileInputs.cache
+C:\Proyectos\C#\Saludo\obj\Debug\Saludo.exe
+C:\Proyectos\C#\Saludo\obj\Debug\Saludo.pdb
