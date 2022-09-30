@@ -12,3 +12,10 @@ C:\Users\docenteitm.SALASFR\Desktop\BancoHerencia\BancoHerencia\obj\Debug\BancoH
 C:\Users\docenteitm.SALASFR\Desktop\BancoHerencia\BancoHerencia\obj\Debug\BancoHerencia.csproj.CoreCompileInputs.cache
 C:\Users\docenteitm.SALASFR\Desktop\BancoHerencia\BancoHerencia\obj\Debug\BancoHerencia.exe
 C:\Users\docenteitm.SALASFR\Desktop\BancoHerencia\BancoHerencia\obj\Debug\BancoHerencia.pdb
+C:\Proyectos\C#\BancoHerencia\BancoHerencia\bin\Debug\BancoHerencia.exe.config
+C:\Proyectos\C#\BancoHerencia\BancoHerencia\bin\Debug\BancoHerencia.exe
+C:\Proyectos\C#\BancoHerencia\BancoHerencia\bin\Debug\BancoHerencia.pdb
+C:\Proyectos\C#\BancoHerencia\BancoHerencia\obj\Debug\BancoHerencia.csproj.AssemblyReference.cache
+C:\Proyectos\C#\BancoHerencia\BancoHerencia\obj\Debug\BancoHerencia.csproj.CoreCompileInputs.cache
+C:\Proyectos\C#\BancoHerencia\BancoHerencia\obj\Debug\BancoHerencia.exe
+C:\Proyectos\C#\BancoHerencia\BancoHerencia\obj\Debug\BancoHerencia.pdb

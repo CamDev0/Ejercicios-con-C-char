@@ -18,10 +18,12 @@ namespace Saludo
         private void btPagar_Click(object sender, EventArgs e)
         {
             double pago = Double.Parse(txPago.Text);
+
             if (pago >= totalTotal)
             {
                 double devuelta = pago - totalTotal;
                 MessageBox.Show("Su compra fue exitosa\nSu devuelta es de: " + devuelta);
+                valorEfecivo.Visible = false;
                 txPago.Visible = false;
                 btPagar.Visible = false;
                 gbFactura.Visible = false;
@@ -35,7 +37,7 @@ namespace Saludo
             else
             {
                 MessageBox.Show("Cantidad insuficiente, ingrese una nueva cantidad.");
-            }
+            } 
         }
 
         private void btCerrarS_Click(object sender, EventArgs e)
@@ -51,10 +53,33 @@ namespace Saludo
             txNombre.Focus();
         }
 
+        private void txNombre_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txPago_TextChanged(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void label12_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btBorrar_Click(object sender, EventArgs e)
+        {
+            txNombre.Clear();
+            txClave.Clear();
+            txNombre.Focus();
+        }
+
         private void btFin_Click(object sender, EventArgs e)
         {
             txSalida.Text = txSalida.Text + "\r\n\r\nEl total a pagar es: " + totalTotal + "\r\nSu ahorro fue de: " + totalDescuento + "\r\n" + "Total IVA: " + totalIva;
 
+            valorEfecivo.Visible = true;
             txPago.Visible = true;
             btPagar.Visible = true;
         }
