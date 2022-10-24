@@ -1,0 +1,11 @@
+C:\Proyectos\C#\EjercicioParcial\EjercicioParcial\bin\Debug\EjercicioParcial.exe.config
+C:\Proyectos\C#\EjercicioParcial\EjercicioParcial\bin\Debug\EjercicioParcial.exe
+C:\Proyectos\C#\EjercicioParcial\EjercicioParcial\bin\Debug\EjercicioParcial.pdb
+C:\Proyectos\C#\EjercicioParcial\EjercicioParcial\obj\Debug\EjercicioParcial.csproj.AssemblyReference.cache
+C:\Proyectos\C#\EjercicioParcial\EjercicioParcial\obj\Debug\EjercicioParcial.Form1.resources
+C:\Proyectos\C#\EjercicioParcial\EjercicioParcial\obj\Debug\EjercicioParcial.Properties.Resources.resources
+C:\Proyectos\C#\EjercicioParcial\EjercicioParcial\obj\Debug\EjercicioParcial.csproj.GenerateResource.cache
+C:\Proyectos\C#\EjercicioParcial\EjercicioParcial\obj\Debug\EjercicioParcial.csproj.CoreCompileInputs.cache
+C:\Proyectos\C#\EjercicioParcial\EjercicioParcial\obj\Debug\EjercicioParcial.exe
+C:\Proyectos\C#\EjercicioParcial\EjercicioParcial\obj\Debug\EjercicioParcial.pdb
+C:\Proyectos\C#\EjercicioParcial\EjercicioParcial\obj\Debug\EjercicioParcial.Maestro.resources

@@ -1,0 +1,9 @@
+C:\Proyectos\C#\ConexionBD\ConexionBD\bin\Debug\ConexionBD.exe.config
+C:\Proyectos\C#\ConexionBD\ConexionBD\bin\Debug\ConexionBD.exe
+C:\Proyectos\C#\ConexionBD\ConexionBD\bin\Debug\ConexionBD.pdb
+C:\Proyectos\C#\ConexionBD\ConexionBD\obj\Debug\ConexionBD.csproj.AssemblyReference.cache
+C:\Proyectos\C#\ConexionBD\ConexionBD\obj\Debug\ConexionBD.csproj.CoreCompileInputs.cache
+C:\Proyectos\C#\ConexionBD\ConexionBD\obj\Debug\ConexionBD.exe
+C:\Proyectos\C#\ConexionBD\ConexionBD\obj\Debug\ConexionBD.pdb
+C:\Proyectos\C#\ConexionBD\ConexionBD\obj\Debug\ConexionBD.Usuario.resources
+C:\Proyectos\C#\ConexionBD\ConexionBD\obj\Debug\ConexionBD.csproj.GenerateResource.cache
